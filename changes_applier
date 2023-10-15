@@ -1,0 +1,2 @@
+#!/bin/bash
+ruby applier.rb $1 $2 $3
